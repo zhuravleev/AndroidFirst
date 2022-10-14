@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FirstProject</string>
+    <string name="main_title">Notifications</string>
+    <string name="first_person">Roman Kamushken</string>
+    <string name="second_person">Tina Turbina</string>
+    <string name="third_person">Tomek Kuwalskij</string>
+    <string name="first_text">Check out awesome updates for Android design kit for Figma. Now more screens and more categories.</string>
+    <string name="second_text">“into component container and with resizing constraints set????”</string>
+    <string name="third_text">“into component container and with resizing constraints set????”</string>
+    <string name="first_replays">117 replays</string>
+    <string name="second_replays">117 replays</string>
+    <string name="third_replays">117 replays</string>
+    <string name="first_time">2 days ago</string>
+    <string name="second_time">18 minutes ago</string>
+    <string name="third_time">2 days ago</string>
+    <string name="menu_text">Account</string>
+    <string name="back_button_content">Back Button</string>
+    <string name="search_button_content">Search Button</string>
+    <string name="notification_button">Cool Button</string>
+    <string name="logo">Logo Image</string>
+    <string name="menu_button">Menu button</string>
+</resources>
